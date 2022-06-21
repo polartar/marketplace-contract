@@ -1,0 +1,8 @@
+.vscode/
+node_modules/
+artifacts/
+cache/
+soljson-v0.8.4+commit.c7e474f2.js
+abi/
+.env
+unknown-31337.json
